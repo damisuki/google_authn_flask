@@ -4,7 +4,6 @@ Goal: demo how to use Google to handle user authentication (authN) for a demo fl
 
 To run this app, run cmd: `docker-compose build` and then `docker-compose up` (make sure to install Docker locally first!)
 
-Credit: https://www.youtube.com/watch?v=FKgJEfrhU1E - Code Specialist (https://code-specialist.com)
 
 To set this up with your (service's) Google account: 
 * https://console.cloud.google.com/ 
